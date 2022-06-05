@@ -1,0 +1,9 @@
+.div{
+    background-color: blueviolet;
+    height: 100px;
+    width: 200px;
+    padding: 30px;
+}
+.span{
+    margin: 0 10px;
+}
